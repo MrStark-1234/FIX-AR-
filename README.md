@@ -1,7 +1,7 @@
 A custom AR headset solution to display IC data on a heads-up using ESP32, Rasp Pi, MQTT and dual TFTs
 
 Note:I have not implemented the AI repair and build guides.This is just a basic prototype that can display IC data on a heads-up.
-
+Hardware of the project has not yet been implemented.
 ## Hardware 
 
 * AR heads up display made for Phones (custom or off the shelf)  
